@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV1.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV2.Chinese.720P
+http://php.17186.eu.org/ysp/cctv2.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV3.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV4.Chinese.720P
+http://111.40.196.39:443/PLTV/88888888/224/3221225490/1.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV5.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV5+.Chinese.720P
+http://111.40.196.35:443/PLTV/88888888/224/3221225767/1.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV7.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV8.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV13.Chinese.1080P
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV14.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV16.Chinese.4K
+https://cntv.sbs/live?auth=2307280808&id=cctv164k
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV4K.Chinese.4K
+https://cntv.sbs/live?auth=2307280808&id=cctv4k
+#EXTINF:-1 logo="" group-title="中国大陆",广西卫视.Chinese.1080P
+http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",南宁新闻综合.Chinese.720P
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",北京卫视.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",东方卫视.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",浙江卫视.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",江苏卫视.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",湖南卫视.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+#EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视中文台.Chinese.1080P
+http://103.112.191.9:880/LAOSAT1015.m3u8
+#EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视资讯台.Chinese.1080P
+http://103.112.191.9:880/LAOSAT1068.m3u8
+#EXTINF:-1 logo="" group-title="中国香港",中国香港台.Chinese.1080P
+http://113.117.74.20:8081/hls/38/index.m3u8
+#EXTINF:-1 logo="" group-title="中国香港",香港耀才财经台.Chinese.720P
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w2039729435.m3u8
+#EXTINF:-1 logo="" group-title="中国香港",香港32台.Chinese.1080P
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省中天娱乐.Chinese.720P
+http://162.19.247.76:22222/live/ztyl/index.m3u8
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省东森洋片.Chinese.720P
+http://162.19.247.76:22222/live/dsypt/index.m3u8
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省东森电影.Chinese.720P
+http://162.19.247.76:22222/live/dsdyt/index.m3u8
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省台视.Chinese.720P
+http://162.19.247.76:22222/live/taishi/index.m3u8
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省中视.Chinese.720P
+http://162.19.247.76:22222/live/zhongshi/index.m3u8
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省华视.Chinese.720P
+http://162.19.247.76:22222/live/huashi/index.m3u8
+#EXTINF:-1 logo="" group-title="俄罗斯",俄罗斯RT.English.1080P
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 logo="" group-title="俄罗斯",俄罗斯GITV.Russian.1080P
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 logo="" group-title="俄罗斯",俄罗斯金砖中文.Russian.1080P
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 logo="" group-title="日本",日本NHK.English.1080P
+http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 logo="" group-title="韩国",韩国KBS.Korean.720P
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 logo="" group-title="澳大利亚",澳大利亚ABC.English.720P
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 logo="" group-title="土耳其",土耳其TRT.English.720P
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 logo="" group-title="卡塔尔",卡塔尔半岛.English.1080P
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:-1 logo="" group-title="新加坡",新加坡CNA.English.1080P
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 logo="" group-title="欧洲",欧洲新闻Europe.English.720P
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="法国",法国24.English.720P
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
+#EXTINF:-1 logo="" group-title="德国",德国DW.English.1080P
+https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
+#EXTINF:-1 logo="" group-title="英国",英国BBC.English.480P
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+#EXTINF:-1 logo="" group-title="美国",美国CNN.English.720P
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="美国",美国GlobalNEWS.English.720P
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
+#EXTINF:-1 logo="" group-title="美国",美国ABC.English.720P
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 logo="" group-title="美国",美国FOX.English.720P
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="美国",美国CBS.English.720P
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 logo="" group-title="美国",美国Reuters.English.1080P
+https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="美国",美国OAN.English.1080P
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="美国",美国Newsmax.English.720P
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",Bloomberg.English.4K
+https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",Fashion.English.4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",Clarity.English.4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",Love.Nature.English.4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",loupe.English.4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",Fashion.English.1080P
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",RedBull.English.1080P
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",ESPN.English.720P
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",Mavtv.English.720P
+https://mavtv-mavtvglobal-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",SportsGrid.English.720P
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",Outside.English.1080P
+https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",Discovery.English.1080P
+http://45.159.74.14:80/DiscoveryChannel/index.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",ZooMoo.English.1080P
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",Music.English.1080P
+https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",Music.Chinese.1080P
+https://www.goodiptv.club/douyu/9588891
+
+
