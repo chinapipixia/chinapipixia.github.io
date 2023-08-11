@@ -3,46 +3,18 @@
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",CCTV2.Chinese.1080P
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV3.Chinese.1080P
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",CCTV4.Chinese.1080P
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",CCTV5.Chinese.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",CCTV5+.Chinese.1080P
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV6.Chinese.1080P
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV7.Chinese.1080P
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV8.Chinese.1080P
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV9.Chinese.1080P
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV10.Chinese.1080P
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV11.Chinese.1080P
-https://cntv.sbs/live?auth=2307280808&id=cctv11
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV12.Chinese.1080P
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",CCTV13.Chinese.1080P
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",CCTV14.Chinese.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV15.Chinese.1080P
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV16.Chinese.1080P
-https://cntv.sbs/live?auth=2307280808&id=cctv16
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV17.Chinese.1080P
-https://cntv.sbs/live?auth=2307280808&id=cctv17
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV.4K.Chinese.4K
-https://cntv.sbs/live?auth=2307280808&id=cctv4k
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV16.4K.Chinese.4K
-https://cntv.sbs/live?auth=2307280808&id=cctv164k
 #EXTINF:-1 logo="" group-title="中国大陆",广西卫视.Chinese.1080P
 http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",南宁新闻综合.Chinese.720P
-http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",东方卫视.Chinese.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",浙江卫视.Chinese.1080P
@@ -121,8 +93,6 @@ https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 #EXTINF:-1 logo="" group-title="英国",英国BBC.English.480P
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-#EXTINF:-1 logo="" group-title="英国",英国BBC(备用).English.720P
-http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 #EXTINF:-1 logo="" group-title="美国",美国CNN.English.720P
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="美国",美国GlobalNEWS.English.720P
