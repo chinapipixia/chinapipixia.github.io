@@ -43,8 +43,6 @@ https://cntv.sbs/live?auth=2307280808&id=cctv164k
 http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",南宁新闻综合.Chinese.720P
 http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",北京卫视.Chinese.1080P
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",东方卫视.Chinese.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",浙江卫视.Chinese.1080P
@@ -54,15 +52,37 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",湖南卫视.Chinese.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视中文台.Chinese.1080P
+http://113.117.74.28:8081/hls/37/index.m3u8
+#EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视中文台(备用).Chinese.1080P
 http://103.112.191.9:880/LAOSAT1015.m3u8
 #EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视资讯台.Chinese.1080P
+http://113.117.74.28:8081/hls/36/index.m3u8
+#EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视资讯台(备用).Chinese.1080P
 http://103.112.191.9:880/LAOSAT1068.m3u8
 #EXTINF:-1 logo="" group-title="中国香港",中国香港台.Chinese.1080P
-http://113.117.74.20:8081/hls/38/index.m3u8
+http://113.117.74.28:8081/hls/38/index.m3u8
+#EXTINF:-1 logo="" group-title="中国香港",中国香港翡翠台.Chinese.1080P
+http://113.117.74.28:8081/hls/67/index.m3u8
 #EXTINF:-1 logo="" group-title="中国香港",香港耀才财经台.Chinese.720P
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w2039729435.m3u8
 #EXTINF:-1 logo="" group-title="中国香港",香港32台.Chinese.1080P
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS新闻.Chinese.1080P
+http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS.Chinese.1080P
+http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS欢乐台.Chinese.1080P
+http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省东森新闻.Chinese.1080P
+http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省东森财经.Chinese.720P
+http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省中视新闻.Chinese.1080P
+http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省民视台湾台.Chinese.1080P
+http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省三立台湾台.Chinese.1080P
+http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 #EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省中天娱乐.Chinese.720P
 http://162.19.247.76:22222/live/ztyl/index.m3u8
 #EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省东森洋片.Chinese.720P
@@ -101,6 +121,8 @@ https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
 #EXTINF:-1 logo="" group-title="英国",英国BBC.English.480P
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+#EXTINF:-1 logo="" group-title="英国",英国BBC(备用).English.720P
+http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 #EXTINF:-1 logo="" group-title="美国",美国CNN.English.720P
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="美国",美国GlobalNEWS.English.720P
@@ -147,7 +169,5 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
 #EXTINF:-1 logo="" group-title="综合频道",Music.Chinese.1080P
 https://www.goodiptv.club/douyu/9588891
-#EXTINF:-1 logo="" group-title="综合频道",UHD.4K.Chinese.4K
-https://www.goodiptv.club/douyu/9249162
 
 
