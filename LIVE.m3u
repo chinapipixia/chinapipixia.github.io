@@ -39,6 +39,20 @@ http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w2039729435.m3u8
 #EXTINF:-1 logo="" group-title="中国香港",中国香港32台.Chinese.1080P
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 logo="" group-title="中国香港",中国香港31台.Chinese.1080P
+https://sc2022.stream-link.org/tv2306.php?id=h09
+#EXTINF:-1 logo="" group-title="中国香港",中国翡翠台.Chinese.1080P
+https://sc2022.stream-link.org/tv2306.php?id=h01
+#EXTINF:-1 logo="" group-title="中国香港",中国无线新闻台.Chinese.1080P
+https://sc2022.stream-link.org/tv2306.php?id=h04
+#EXTINF:-1 logo="" group-title="中国香港",中国无线财经资讯台.Chinese.1080P
+https://sc2022.stream-link.org/tv2306.php?id=h05
+#EXTINF:-1 logo="" group-title="中国香港",中国香港开电视.Chinese.1080P
+https://sc2022.stream-link.org/tv2306.php?id=h13
+#EXTINF:-1 logo="" group-title="中国香港",中国香港开电视资讯台.Chinese.1080P
+https://sc2022.stream-link.org/tv2306.php?id=h17
+#EXTINF:-1 logo="" group-title="中国香港",中国香港国际财经台.Chinese.1080P
+https://sc2022.stream-link.org/tv2306.php?id=h13
 #EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t14
 #EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS新闻(备用).Chinese.1080P
@@ -61,10 +75,6 @@ http://sc2022.stream-link.org/tv2306.php?id=t10
 http://sc2022.stream-link.org/tv2306.php?id=t11
 #EXTINF:-1 logo="" group-title="俄罗斯",俄罗斯RT.English.1080P
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 logo="" group-title="俄罗斯",俄罗斯GITV.Russian.1080P
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 logo="" group-title="俄罗斯",俄罗斯金砖中文.Russian.1080P
-http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 logo="" group-title="日本",日本NHK.English.1080P
 http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 logo="" group-title="韩国",韩国KBS.Korean.720P
@@ -79,22 +89,46 @@ https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 logo="" group-title="欧洲",欧洲新闻Europe.English.720P
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="欧洲",欧洲新闻Europe(备用).English.720P
+https://sc2022.stream-link.org/tv2306.php?id=e13
 #EXTINF:-1 logo="" group-title="法国",法国24.English.720P
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
+#EXTINF:-1 logo="" group-title="法国",法国24(备用).English.1080P
+https://sc2022.stream-link.org/tv2306.php?id=e15
 #EXTINF:-1 logo="" group-title="德国",德国DW.English.1080P
 https://dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream05/streamPlaylist.m3u8
+#EXTINF:-1 logo="" group-title="德国",德国DW(备用).English.1080P
+https://sc2022.stream-link.org/tv2306.php?id=e12
 #EXTINF:-1 logo="" group-title="英国",英国BBC.English.480P
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+#EXTINF:-1 logo="" group-title="英国",英国BBC(备用).English.720P
+https://sc2022.stream-link.org/tv2306.php?id=e05
+#EXTINF:-1 logo="" group-title="英国",英国GBN.English.1080P
+https://sc2022.stream-link.org/tv2306.php?id=e16
+#EXTINF:-1 logo="" group-title="英国",英国SKY.English.1080P
+https://sc2022.stream-link.org/tv2306.php?id=e20
 #EXTINF:-1 logo="" group-title="美国",美国CNN.English.720P
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="美国",美国GlobalNEWS.English.720P
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
 #EXTINF:-1 logo="" group-title="美国",美国ABC.English.720P
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 logo="" group-title="美国",美国ABC(备用).English.720P
+https://sc2022.stream-link.org/tv2306.php?id=e02
 #EXTINF:-1 logo="" group-title="美国",美国FOX.English.720P
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="美国",美国FOX(备用).English.720P
+https://sc2022.stream-link.org/tv2306.php?id=e14
 #EXTINF:-1 logo="" group-title="美国",美国CBS.English.720P
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 logo="" group-title="美国",美国CBS(备用).English.720P
+https://sc2022.stream-link.org/tv2306.php?id=e08
+#EXTINF:-1 logo="" group-title="美国",美国CBN.English.1080P
+https://sc2022.stream-link.org/tv2306.php?id=e07
+#EXTINF:-1 logo="" group-title="美国",美国CNBC.English.1080P
+https://sc2022.stream-link.org/tv2306.php?id=e10
+#EXTINF:-1 logo="" group-title="美国",美国NBC.English.720P
+https://sc2022.stream-link.org/tv2306.php?id=e18
 #EXTINF:-1 logo="" group-title="美国",美国Reuters.English.1080P
 https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="美国",美国OAN.English.1080P
@@ -127,6 +161,10 @@ https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 #EXTINF:-1 logo="" group-title="综合频道",ZooMoo.English.1080P
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="综合频道",Smithsonian.Channel.English.1080P
+https://sc2022.stream-link.org/tv2306.php?id=e22
+#EXTINF:-1 logo="" group-title="综合频道",Radio.Ticino.English.1080P
+https://sc2022.stream-link.org/tv2306.php?id=e21
 #EXTINF:-1 logo="" group-title="综合频道",Music.English.1080P
 https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
 #EXTINF:-1 logo="" group-title="综合频道",Music.Chinese.1080P
