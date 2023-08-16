@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV1.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",CCTV2.Chinese.1080P
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",CCTV3.Chinese.1080P
