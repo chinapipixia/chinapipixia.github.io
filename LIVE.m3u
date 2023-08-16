@@ -31,10 +31,14 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 http://113.117.74.28:8081/hls/37/index.m3u8
 #EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视中文台(备用).Chinese.720P
 http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+#EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视中文台(备用2).Chinese.720P
+http://[2409：8087：2001：20：2800：0：DF6e：EB24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视资讯台.Chinese.1080P
 http://113.117.74.28:8081/hls/36/index.m3u8
 #EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视资讯台(备用).Chinese.720P
 http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+#EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视资讯台(备用2).Chinese.720P
+http://[2409：8087：2001：20：2800：0：df6e：eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 logo="" group-title="中国香港",中国香港耀才财经台.Chinese.720P
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w2039729435.m3u8
 #EXTINF:-1 logo="" group-title="中国香港",中国香港32台.Chinese.1080P
@@ -109,6 +113,8 @@ https://sc2022.stream-link.org/tv2306.php?id=e16
 https://sc2022.stream-link.org/tv2306.php?id=e20
 #EXTINF:-1 logo="" group-title="美国",美国CNN.English.720P
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="美国",美国CNN(备用).English.360P
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 logo="" group-title="美国",美国GlobalNEWS.English.720P
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
 #EXTINF:-1 logo="" group-title="美国",美国ABC.English.720P
