@@ -19,8 +19,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",广西卫视.Chinese.1080P
 http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",南宁新闻综合.Chinese.720P
-http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",东方卫视.Chinese.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",浙江卫视.Chinese.1080P
@@ -46,6 +44,8 @@ http://sc2022.stream-link.org/tv2306.php?id=t14
 #EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS新闻(备用).Chinese.1080P
 http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 #EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS.Chinese.1080P
+https://sc2022.stream-link.org/tv2306.php?id=t15
+#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS(备用).Chinese.1080P
 http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 #EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省中天新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t03
