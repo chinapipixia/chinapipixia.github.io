@@ -53,18 +53,12 @@ https://sc2022.stream-link.org/tv2306.php?id=h17
 https://sc2022.stream-link.org/tv2306.php?id=h13
 #EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t14
-#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS新闻(备用).Chinese.1080P
-http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 #EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS.Chinese.1080P
 https://sc2022.stream-link.org/tv2306.php?id=t15
-#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS(备用).Chinese.1080P
-http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 #EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省中天新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t03
 #EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省东森新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t01
-#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省东森新闻(备用).Chinese.1080P
-http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 #EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省东森财经新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t02
 #EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省三立新闻.Chinese.1080P
@@ -161,10 +155,6 @@ https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 #EXTINF:-1 logo="" group-title="综合频道",ZooMoo.English.1080P
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合频道",Smithsonian.Channel.English.1080P
-https://sc2022.stream-link.org/tv2306.php?id=e22
-#EXTINF:-1 logo="" group-title="综合频道",Radio.Ticino.English.1080P
-https://sc2022.stream-link.org/tv2306.php?id=e21
 #EXTINF:-1 logo="" group-title="综合频道",Music.English.1080P
 https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
 #EXTINF:-1 logo="" group-title="综合频道",Music.Chinese.1080P
