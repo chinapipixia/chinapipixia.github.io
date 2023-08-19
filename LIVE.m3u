@@ -25,45 +25,45 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",湖南卫视.Chinese.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视中文台.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国香港",凤凰卫视中文台.Chinese.1080P
 http://113.117.74.28:8081/hls/37/index.m3u8
-#EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视中文台(备用).Chinese.720P
+#EXTINF:-1 logo="" group-title="中国香港",凤凰卫视中文台(备用).Chinese.720P
 http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-#EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视资讯台.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国香港",凤凰卫视资讯台.Chinese.1080P
 http://113.117.74.28:8081/hls/36/index.m3u8
-#EXTINF:-1 logo="" group-title="中国香港",中国香港凤凰卫视资讯台(备用).Chinese.720P
+#EXTINF:-1 logo="" group-title="中国香港",凤凰卫视资讯台(备用).Chinese.720P
 http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-#EXTINF:-1 logo="" group-title="中国香港",中国香港耀才财经台.Chinese.720P
+#EXTINF:-1 logo="" group-title="中国香港",耀才财经台.Chinese.720P
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w2039729435.m3u8
-#EXTINF:-1 logo="" group-title="中国香港",中国香港32台.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国香港",香港32台.Chinese.1080P
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="中国香港",中国香港31台.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国香港",香港31台.Chinese.1080P
 https://sc2022.stream-link.org/tv2306.php?id=h09
-#EXTINF:-1 logo="" group-title="中国香港",中国翡翠台.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国香港",翡翠台.Chinese.1080P
 https://sc2022.stream-link.org/tv2306.php?id=h01
-#EXTINF:-1 logo="" group-title="中国香港",中国无线新闻台.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国香港",无线新闻台.Chinese.1080P
 https://sc2022.stream-link.org/tv2306.php?id=h04
-#EXTINF:-1 logo="" group-title="中国香港",中国无线财经资讯台.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国香港",无线财经资讯台.Chinese.1080P
 https://sc2022.stream-link.org/tv2306.php?id=h05
-#EXTINF:-1 logo="" group-title="中国香港",中国香港开电视.Chinese.1080P
-https://sc2022.stream-link.org/tv2306.php?id=h13
-#EXTINF:-1 logo="" group-title="中国香港",中国香港开电视资讯台.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国香港",香港J2.Chinese.1080P
+https://sc2022.stream-link.org/tv2306.php?id=h03
+#EXTINF:-1 logo="" group-title="中国香港",香港开电视资讯台.Chinese.1080P
 https://sc2022.stream-link.org/tv2306.php?id=h17
-#EXTINF:-1 logo="" group-title="中国香港",中国香港国际财经台.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国香港",香港国际财经台.Chinese.1080P
 https://sc2022.stream-link.org/tv2306.php?id=h13
-#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS新闻.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国台湾省",TVBS新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t14
-#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省TVBS.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国台湾省",TVBS.Chinese.1080P
 https://sc2022.stream-link.org/tv2306.php?id=t15
-#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省中天新闻.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国台湾省",中天新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t03
-#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省东森新闻.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国台湾省",东森新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t01
-#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省东森财经新闻.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国台湾省",东森财经新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t02
-#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省三立新闻.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国台湾省",三立新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t10
-#EXTINF:-1 logo="" group-title="中国台湾省",中国台湾省三立新闻+.Chinese.1080P
+#EXTINF:-1 logo="" group-title="中国台湾省",三立新闻+.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t11
 #EXTINF:-1 logo="" group-title="俄罗斯",俄罗斯RT.English.1080P
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
