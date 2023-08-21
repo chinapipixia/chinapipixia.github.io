@@ -67,8 +67,6 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="美国",美国GlobalNEWS.English.720P
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-#EXTINF:-1 logo="" group-title="美国",美国ABC.English.720P
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 #EXTINF:-1 logo="" group-title="美国",美国FOX.English.720P
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="美国",美国CBS.English.720P
@@ -79,6 +77,8 @@ https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="美国",美国Newsmax.English.720P
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 logo="" group-title="西班牙",皇家马德里.Spanish.480P
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 logo="" group-title="综合频道",Bloomberg.English.4K
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 logo="" group-title="综合频道",Fashion.English.4K
