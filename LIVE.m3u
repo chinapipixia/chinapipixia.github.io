@@ -3,8 +3,6 @@
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",CCTV13.Chinese.1080P
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 logo="" group-title="中国大陆",CCTV14.Chinese.1080P
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",广西卫视.Chinese.1080P
 http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",东方卫视.Chinese.1080P
@@ -23,20 +21,22 @@ http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 #EXTINF:-1 logo="" group-title="中国香港",耀才财经台.Chinese.720P
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w2039729435.m3u8
+#EXTINF:-1 logo="" group-title="中国香港",香港31台.Chinese.1080P
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 #EXTINF:-1 logo="" group-title="中国香港",香港32台.Chinese.1080P
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 logo="" group-title="中国香港",香港有线直播新闻台.Chinese.720P
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
 #EXTINF:-1 logo="" group-title="中国台湾省",TVBS新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t14
 #EXTINF:-1 logo="" group-title="中国台湾省",TVBS.Chinese.1080P
 https://sc2022.stream-link.org/tv2306.php?id=t15
 #EXTINF:-1 logo="" group-title="中国台湾省",中天新闻.Chinese.1080P
-http://tv.redrainl.site:9500/live.m3u8?c=3
+http://sc2022.stream-link.org/tv2306.php?id=t03
 #EXTINF:-1 logo="" group-title="中国台湾省",东森新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t01
-#EXTINF:-1 logo="" group-title="中国台湾省",中视新闻.Chinese.1080P
-http://tv.redrainl.site:9500/live.m3u8?c=02
-#EXTINF:-1 logo="" group-title="中国台湾省",台视新闻.Chinese.1080P
-http://tv.redrainl.site:9500/live.m3u8?c=11
+#EXTINF:-1 logo="" group-title="中国台湾省",东森财经新闻.Chinese.1080P
+http://sc2022.stream-link.org/tv2306.php?id=t02
 #EXTINF:-1 logo="" group-title="中国台湾省",三立新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t10
 #EXTINF:-1 logo="" group-title="中国台湾省",三立新闻+.Chinese.1080P
