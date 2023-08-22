@@ -21,10 +21,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 logo="" group-title="China",湖南卫视.Chinese.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 logo="" group-title="China",凤凰卫视中文台.Chinese.1080P
-http://113.117.74.17:8081/hls/37/index.m3u8
-#EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台.Chinese.1080P
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 logo="" group-title="China",凤凰卫视中文台.Chinese.720P
+http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+#EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台.Chinese.720P
+http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省TVBS新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t14
 #EXTINF:-1 logo="" group-title="China",台湾省TVBS.Chinese.1080P
