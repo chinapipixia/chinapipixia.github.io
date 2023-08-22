@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 logo="" group-title="China",CCTV1.Chinese.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV2.Chinese.1080P
+https://cntv.sbs/tv?auth=230813&id=cctv2
+#EXTINF:-1 logo="" group-title="China",CCTV3.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV4.Chinese.1080P
+https://cntv.sbs/tv?auth=230813&id=cctv4
 #EXTINF:-1 logo="" group-title="China",CCTV5.Chinese.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV5+.Chinese.1080P
@@ -11,8 +17,14 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV16.Chinese.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV4K超高清.Chinese.4K
+https://cntv.sbs/tv?auth=230813&id=cctv4k
+#EXTINF:-1 logo="" group-title="China",CCTV16.Chinese.4K
+https://cntv.sbs/tv?auth=230813&id=cctv164k
 #EXTINF:-1 logo="" group-title="China",广西卫视.Chinese.1080P
 http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
+#EXTINF:-1 logo="" group-title="China",北京卫视.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 logo="" group-title="China",东方卫视.Chinese.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 logo="" group-title="China",浙江卫视.Chinese.1080P
@@ -27,26 +39,22 @@ http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省TVBS新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t14
-#EXTINF:-1 logo="" group-title="China",台湾省TVBS新闻(备用).Chinese.1080P
-http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 #EXTINF:-1 logo="" group-title="China",台湾省TVBS.Chinese.1080P
 https://sc2022.stream-link.org/tv2306.php?id=t15
-#EXTINF:-1 logo="" group-title="China",台湾省TVBS(备用).Chinese.1080P
-http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 #EXTINF:-1 logo="" group-title="China",台湾省中天新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t03
-#EXTINF:-1 logo="" group-title="China",台湾省中天新闻(备用).Chinese.720P
-http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 #EXTINF:-1 logo="" group-title="China",台湾省东森新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t01
-#EXTINF:-1 logo="" group-title="China",台湾省东森新闻(备用).Chinese.1080P
-http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 #EXTINF:-1 logo="" group-title="IPTV6",凤凰卫视中文台.Chinese.1080P
 http://[2409：8087：2001：20：2800：0：df6e：eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 logo="" group-title="IPTV6",凤凰卫视资讯台.Chinese.1080P
 http://[2409：8087：2001：20：2800：0：df6e：eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 logo="" group-title="IPTV6",香港.8K.Chinese.8K
 http://[2409：8087：2001：20：2800：0：DF6e：EB04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV6",CCTV5.Chinese.4K
+http://[2409：8087：2001：20：2800：0：df6e：eb23]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV6",CCTV16.Chinese.4K
+http://[2409：8087：2001：20：2800：0：df6e：eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 logo="" group-title="Russia",俄罗斯RT.English.1080P
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Japan",日本NHK.English.1080P
@@ -107,6 +115,8 @@ https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 #EXTINF:-1 logo="" group-title="综合",ZooMoo.English.1080P
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 logo="" group-title="综合",Music.English.1080P
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
 #EXTINF:-1 logo="" group-title="综合",Music.Chinese.1080P
 https://www.goodiptv.club/douyu/9588891
 
