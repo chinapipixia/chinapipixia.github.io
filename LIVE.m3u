@@ -1,8 +1,16 @@
 #EXTM3U
 #EXTINF:-1 logo="" group-title="China",CCTV1.Chinese.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV5.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV5+.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 logo="" group-title="China",CCTV13.Chinese.1080P
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV14.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 logo="" group-title="China",CCTV16.Chinese.1080P
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 logo="" group-title="China",广西卫视.Chinese.1080P
 http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
 #EXTINF:-1 logo="" group-title="China",东方卫视.Chinese.1080P
@@ -15,34 +23,28 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 logo="" group-title="China",凤凰卫视中文台.Chinese.1080P
 http://113.117.74.17:8081/hls/37/index.m3u8
-#EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台.Chinese.1080P
+#EXTINF:-1 logo="" group-title="China",凤凰卫视中文台(备用).Chinese.1080P
+http://113.117.74.12:8081/hls/37/index.m3u8
+#EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台.Chinese.720P
+http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
+#EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台(备用).Chinese.1080P
 http://113.117.74.12:8081/hls/36/index.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省TVBS新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t14
+#EXTINF:-1 logo="" group-title="China",台湾省TVBS新闻(备用).Chinese.1080P
+http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 #EXTINF:-1 logo="" group-title="China",台湾省TVBS.Chinese.1080P
 https://sc2022.stream-link.org/tv2306.php?id=t15
+#EXTINF:-1 logo="" group-title="China",台湾省TVBS(备用).Chinese.1080P
+http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 #EXTINF:-1 logo="" group-title="China",台湾省中天新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t03
-#EXTINF:-1 logo="" group-title="China",台湾省中天亚洲.Chinese.1080P
-https://sc2022.stream-link.org/tv2306.php?id=t17
+#EXTINF:-1 logo="" group-title="China",台湾省中天新闻(备用).Chinese.720P
+http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 #EXTINF:-1 logo="" group-title="China",台湾省东森新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t01
-#EXTINF:-1 logo="" group-title="China",台湾省东森财经新闻.Chinese.1080P
-http://sc2022.stream-link.org/tv2306.php?id=t02
-#EXTINF:-1 logo="" group-title="China",台湾省三立新闻.Chinese.1080P
-http://sc2022.stream-link.org/tv2306.php?id=t10
-#EXTINF:-1 logo="" group-title="China",台湾省三立新闻+.Chinese.1080P
-http://sc2022.stream-link.org/tv2306.php?id=t11
-#EXTINF:-1 logo="" group-title="China",台湾省中视新闻.Chinese.1080P
-https://sc2022.stream-link.org/tv2306.php?id=t06
-#EXTINF:-1 logo="" group-title="China",台湾省台视新闻.Chinese.1080P
-https://sc2022.stream-link.org/tv2306.php?id=t13
-#EXTINF:-1 logo="" group-title="China",台湾省华视新闻资讯.Chinese.1080P
-https://sc2022.stream-link.org/tv2306.php?id=t05
-#EXTINF:-1 logo="" group-title="China",台湾省民视新闻.Chinese.1080P
-https://sc2022.stream-link.org/tv2306.php?id=t07
-#EXTINF:-1 logo="" group-title="China",台湾省寰宇新闻.Chinese.1080P
-https://sc2022.stream-link.org/tv2306.php?id=t08
+#EXTINF:-1 logo="" group-title="China",台湾省东森新闻(备用).Chinese.1080P
+http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #EXTINF:-1 logo="" group-title="Russia",俄罗斯RT.English.1080P
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Japan",日本NHK.English.1080P
@@ -111,8 +113,6 @@ https://www.goodiptv.club/douyu/9588891
 https://www.goodiptv.club/douyu/9220456
 #EXTINF:-1 logo="" group-title="GAME",牛叔说电影
 https://www.goodiptv.club/douyu/2758565
-#EXTINF:-1 logo="" group-title="GAME",牛叔二台
-https://tv.iill.top/douyu/10010651
 #EXTINF:-1 logo="" group-title="GAME",英雄联盟赛事
 https://tv.iill.top/douyu/288016
 #EXTINF:-1 logo="" group-title="GAME",不2不叫周淑怡
