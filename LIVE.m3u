@@ -23,28 +23,22 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 logo="" group-title="China",凤凰卫视中文台.Chinese.1080P
 http://113.117.74.17:8081/hls/37/index.m3u8
-#EXTINF:-1 logo="" group-title="China",凤凰卫视中文台(备用).Chinese.1080P
-http://113.117.74.12:8081/hls/37/index.m3u8
-#EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台.Chinese.720P
-http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
-#EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台(备用).Chinese.1080P
+#EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台.Chinese.1080P
 http://113.117.74.12:8081/hls/36/index.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省TVBS新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t14
-#EXTINF:-1 logo="" group-title="China",台湾省TVBS新闻(备用).Chinese.1080P
-http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 #EXTINF:-1 logo="" group-title="China",台湾省TVBS.Chinese.1080P
 https://sc2022.stream-link.org/tv2306.php?id=t15
-#EXTINF:-1 logo="" group-title="China",台湾省TVBS(备用).Chinese.1080P
-http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 #EXTINF:-1 logo="" group-title="China",台湾省中天新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t03
-#EXTINF:-1 logo="" group-title="China",台湾省中天新闻(备用).Chinese.720P
-http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 #EXTINF:-1 logo="" group-title="China",台湾省东森新闻.Chinese.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t01
-#EXTINF:-1 logo="" group-title="China",台湾省东森新闻(备用).Chinese.1080P
-http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
+#EXTINF:-1 logo="" group-title="IPTV6",凤凰卫视中文台.Chinese.1080P
+http://[2409：8087：2001：20：2800：0：df6e：eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV6",凤凰卫视资讯台.Chinese.1080P
+http://[2409：8087：2001：20：2800：0：df6e：eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV6",香港.8K.Chinese.8K
+http://[2409：8087：2001：20：2800：0：DF6e：EB04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 logo="" group-title="Russia",俄罗斯RT.English.1080P
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Japan",日本NHK.English.1080P
@@ -109,7 +103,7 @@ http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="综合",Music.Chinese.1080P
 https://www.goodiptv.club/douyu/9588891
-#EXTINF:-1 logo="" group-title="GAME",万合出品
+#EXTINF:-1 logo="" group-title="GAME",万万没想到
 https://www.goodiptv.club/douyu/9220456
 #EXTINF:-1 logo="" group-title="GAME",牛叔说电影
 https://www.goodiptv.club/douyu/2758565
@@ -123,35 +117,27 @@ https://tv.iill.top/douyu/2947432
 https://tv.iill.top/douyu/5720533
 #EXTINF:-1 logo="" group-title="GAME",芜湖大司马
 https://tv.iill.top/douyu/606118
-#EXTINF:-1 logo="" group-title="GAME",王者荣耀官方赛事
+#EXTINF:-1 logo="" group-title="GAME",王者荣耀赛事
 https://tv.iill.top/douyu/1863767
-#EXTINF:-1 logo="" group-title="GAME",爱鱼丶南瓜
+#EXTINF:-1 logo="" group-title="GAME",南瓜
 https://tv.iill.top/douyu/8667622
-#EXTINF:-1 logo="" group-title="GAME",鹿小鸣l
+#EXTINF:-1 logo="" group-title="GAME",鹿小鸣
 https://tv.iill.top/douyu/10040721
-#EXTINF:-1 logo="" group-title="GAME",李知恩nn
+#EXTINF:-1 logo="" group-title="GAME",李知恩
 https://tv.iill.top/douyu/4921614
-#EXTINF:-1 logo="" group-title="GAME",青鸾少年云天河
+#EXTINF:-1 logo="" group-title="GAME",云天河
 https://tv.iill.top/douyu/5094760
-#EXTINF:-1 logo="" group-title="GAME",亚瑟王丶Z
+#EXTINF:-1 logo="" group-title="GAME",亚瑟王
 https://tv.iill.top/douyu/5669195
-#EXTINF:-1 logo="" group-title="GAME",泽泽TuT
+#EXTINF:-1 logo="" group-title="GAME",泽泽
 https://tv.iill.top/douyu/10671153
-#EXTINF:-1 logo="" group-title="GAME",是个枷锁
+#EXTINF:-1 logo="" group-title="GAME",枷锁
 https://tv.iill.top/douyu/169
 #EXTINF:-1 logo="" group-title="GAME",浪小民
 https://tv.iill.top/douyu/6563760
-#EXTINF:-1 logo="" group-title="GAME",骚易
-https://tv.iill.top/douyu/2207607
-#EXTINF:-1 logo="" group-title="GAME",国服万场猴王宅哥
+#EXTINF:-1 logo="" group-title="GAME",猴王
 https://tv.iill.top/douyu/258718
-#EXTINF:-1 logo="" group-title="GAME",诸葛亮孔萌
+#EXTINF:-1 logo="" group-title="GAME",诸葛亮
 https://tv.iill.top/douyu/4534109
-#EXTINF:-1 logo="" group-title="IPTV6",凤凰卫视中文台.Chinese.1080P
-http://[2409：8087：2001：20：2800：0：df6e：eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 logo="" group-title="IPTV6",凤凰卫视资讯台.Chinese.1080P
-http://[2409：8087：2001：20：2800：0：df6e：eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 logo="" group-title="IPTV6",香港.8K.Chinese.8K
-http://[2409：8087：2001：20：2800：0：DF6e：EB04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
 
