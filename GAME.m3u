@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 logo="" group-title="综合",Music.Chinese.1080P
+#EXTINF:-1 logo="" group-title="GAME",Music.Chinese.1080P
 https://www.goodiptv.club/douyu/9588891
-#EXTINF:-1 logo="" group-title="GAME",万万没想到
-https://www.goodiptv.club/douyu/9220456
-#EXTINF:-1 logo="" group-title="GAME",牛叔说电影
-https://www.goodiptv.club/douyu/2758565
-#EXTINF:-1 logo="" group-title="GAME",英雄联盟赛事
-https://www.goodiptv.club/douyu/288016
 #EXTINF:-1 logo="" group-title="GAME",不2不叫周淑怡
 https://www.goodiptv.club/douyu/290935
 #EXTINF:-1 logo="" group-title="GAME",呆妹儿小霸王
@@ -15,8 +9,6 @@ https://www.goodiptv.club/douyu/2947432
 https://www.goodiptv.club/douyu/5720533
 #EXTINF:-1 logo="" group-title="GAME",芜湖大司马
 https://www.goodiptv.club/douyu/606118
-#EXTINF:-1 logo="" group-title="GAME",王者荣耀赛事
-https://www.goodiptv.club/douyu/1863767
 #EXTINF:-1 logo="" group-title="GAME",南瓜
 https://www.goodiptv.club/douyu/8667622
 #EXTINF:-1 logo="" group-title="GAME",鹿小鸣
@@ -41,5 +33,3 @@ https://www.goodiptv.club/douyu/4534109
 https://www.goodiptv.club/douyu/81018
 #EXTINF:-1 logo="" group-title="GAME",温柚
 https://www.goodiptv.club/douyu/5910850
-
-
