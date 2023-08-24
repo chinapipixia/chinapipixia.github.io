@@ -31,12 +31,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 logo="" group-title="China",凤凰卫视中文台.Chinese.1080P
 http://113.117.74.17:8081/hls/37/index.m3u8
-#EXTINF:-1 logo="" group-title="China",凤凰卫视中文台(备用).Chinese.1080P
-http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 #EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台.Chinese.720P
 http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
-#EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台(备用).Chinese.720P
-http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省Tvbs.Chinese.1080P
 https://sc2022.stream-link.org/tv2306.php?id=t15
 #EXTINF:-1 logo="" group-title="China",台湾省TvbsNews.Chinese.1080P
@@ -45,6 +41,10 @@ http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&ts
 http://sc2022.stream-link.org/tv2306.php?id=t03
 #EXTINF:-1 logo="" group-title="China",台湾省中天News.Chinese.1080P
 http://tv.redrainl.site:9500/live.m3u8?c=3
+#EXTINF:-1 logo="" group-title="IPTV6",凤凰卫视中文台.Chinese.1080P
+http://[2409：8087：2001：20：2800：0：df6e：eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 logo="" group-title="IPTV6",凤凰卫视资讯台.Chinese.1080P
+http://[2409：8087：2001：20：2800：0：df6e：eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 logo="" group-title="Russia",俄罗斯Rt.English.1080P
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Japan",日本Nhk.English.1080P
