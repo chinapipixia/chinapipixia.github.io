@@ -29,12 +29,12 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省Tvbs.1080P
 https://sc2022.stream-link.org/tv2306.php?id=t15
-#EXTINF:-1 logo="" group-title="China",台湾省Tvbs(备用).1080P
-http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 #EXTINF:-1 logo="" group-title="China",台湾省中天新闻.1080P
 http://sc2022.stream-link.org/tv2306.php?id=t03
 #EXTINF:-1 logo="" group-title="China",台湾省中天新闻(备用).1080P
 http://tv.redrainl.site:9500/live.m3u8?c=3
+#EXTINF:-1 logo="" group-title="China",台湾省东森新闻.1080P
+http://sc2022.stream-link.org/tv2306.php?id=t01
 #EXTINF:-1 logo="" group-title="IPTV6",凤凰卫视中文台.1080P
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 logo="" group-title="IPTV6",凤凰卫视资讯台.1080P
