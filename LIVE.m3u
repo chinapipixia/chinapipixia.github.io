@@ -35,8 +35,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台.1080P
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 logo="" group-title="China",香港.8K
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省Tvbs.1080P
 https://sc2022.stream-link.org/tv2306.php?id=t15
 #EXTINF:-1 logo="" group-title="China",台湾省中天新闻.1080P
@@ -91,6 +89,8 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 logo="" group-title="综合",loupe.4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 logo="" group-title="综合",香港.8K
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 logo="" group-title="综合",RedBull.1080P
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 logo="" group-title="综合",Espn.720P
