@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 logo="" group-title="China",Cctv1.1080P
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 logo="" group-title="China",Cctv2.1080P
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1 logo="" group-title="China",Cctv4.1080P
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 #EXTINF:-1 logo="" group-title="China",Cctv5.4K
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 logo="" group-title="China",Cctv5+.1080P
@@ -25,10 +29,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台.1080P
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省中天新闻.1080P
-http://tv.redrainl.site:9500/live.m3u8?c=3
-#EXTINF:-1 logo="" group-title="China",台湾省中天.1080P
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 logo="" group-title="Russia",俄罗斯Rt.1080P
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Japan",日本Nhk.1080P
@@ -65,6 +65,8 @@ https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 logo="" group-title="America",美国NewsMax.720P
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 logo="" group-title="综合",香港.8K
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 logo="" group-title="综合",Bloomberg.4K
 https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF:-1 logo="" group-title="综合",Fashion.4K
@@ -75,8 +77,6 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 logo="" group-title="综合",loupe.4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 logo="" group-title="综合",香港.8K
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 logo="" group-title="综合",Nasa1.720P
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 logo="" group-title="综合",Nasa2.720P
