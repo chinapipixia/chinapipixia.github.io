@@ -27,8 +27,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/o
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 logo="" group-title="China",台湾省中天新闻.1080P
 http://tv.redrainl.site:9500/live.m3u8?c=3
-#EXTINF:-1 logo="" group-title="China",台湾省Tvbs.1080P
-http://8.210.88.135/1023/4g73.php?p=3
+#EXTINF:-1 logo="" group-title="China",台湾省中天.1080P
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 logo="" group-title="Russia",俄罗斯Rt.1080P
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Japan",日本Nhk.1080P
