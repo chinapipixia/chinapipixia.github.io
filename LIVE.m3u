@@ -29,26 +29,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 logo="" group-title="China",凤凰卫视资讯台.1080P.25FPS
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省中天新闻.1080P.30FPS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省TVBSNEWS.1080P.30FPS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省TVBS.Chinese.1080P.25FPS
-https://sc2022.stream-link.org/tv2306.php?id=t15
-#EXTINF:-1 logo="" group-title="China",台湾省东森新闻.1080P.25FPS
-http://sc2022.stream-link.org/tv2306.php?id=t01
-#EXTINF:-1 logo="" group-title="China",台湾省东森财经新闻.1080P.30FPS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省三立NEWS.1080P.30FPS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省三立NEWS+.1080P.30FPS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省中视新闻.1080P.30FPS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省民视新闻.1080P.30FPS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 logo="" group-title="China",台湾省台视新闻.1080P.30FPS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 logo="" group-title="Russia",俄罗斯Rt.1080P.25FPS
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 logo="" group-title="Japan",日本NHK.1080P.25FPS
