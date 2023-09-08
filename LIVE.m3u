@@ -31,7 +31,7 @@ https://sc2022.stream-link.org/tv2306.php?id=t15
 https://sc2022.stream-link.org/tv2306.php?id=t03
 #EXTINF:-1 logo="" group-title="Russia",俄罗斯Rt.1080P.25FPS
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 logo="" group-title="Russia",日本NHK.1080P.25FPS
+#EXTINF:-1 logo="" group-title="Japan",日本NHK.1080P.30FPS
 http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 logo="" group-title="Australia",澳大利亚ABC.720P.25FPS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
