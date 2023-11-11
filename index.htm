@@ -299,41 +299,38 @@
 	<script src="all.min.js"></script>
 	<script src="love.min.js"></script>
 	<div class="mPower">
- 	 <span id="on" title="点击暂停" style=""></span>
- 	 <span id="off" title="点击播放" style=""></span>
+  	<span id="on" title="点击暂停" style=""></span>
+  	<span id="off" title="点击播放" style=""></span>
 	</div>
 
 	<script>
-  	$(document).ready(function () {
-  	  // 模拟点击事件
-  	  $("#bgmMusic").trigger("play");
+	  $(document).ready(function () {
+	    // 模拟点击事件
+	    $("#bgmMusic").trigger("play");
 
-  	  // 添加键盘事件监听器
+ 	   var isMusicStarted = false;
+
+   	 // 添加键盘事件监听器
   	  $(document).keydown(function (event) {
-   	   switch (event.which) {
-     	   case 37: // 左箭头
-     	   case 38: // 上箭头
-     	   case 39: // 右箭头
-     	   case 40: // 下箭头
-     	     event.preventDefault(); // prevent default behavior (scrolling, etc.)
-    	      toggleAudio();
-    	      break;
-   	   }
+   	   if (!isMusicStarted) {
+     	   switch (event.which) {
+      	    case 37: // 左箭头
+      	    case 38: // 上箭头
+       	   case 39: // 右箭头
+      	    case 40: // 下箭头
+       	     event.preventDefault(); // prevent default behavior (scrolling, etc.)
+     	       startAudio();
+     	       break;
+    	    }
+  	    }
  	   });
- 	 });
 
- 	 function toggleAudio() {
- 	   var audio = document.getElementById('bgmMusic');
- 	   if (audio.paused) {
-  	    audio.play();
-  	  } else {
-     	 // Add a condition here if you want to allow pausing only under certain circumstances
-    	  // For example, allow pausing only if a specific element has a certain class
-   	   if (/* your condition */) {
-    	    audio.pause();
-   	   }
+	    function startAudio() {
+   	   var audio = document.getElementById('bgmMusic');
+    	  audio.play();
+    	  isMusicStarted = true;
    	 }
-	  }
+ 	 });
 	</script>
 
 	
