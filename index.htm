@@ -308,26 +308,31 @@
   	  // 模拟点击事件
   	  $("#bgmMusic").trigger("play");
 
-   	 // 添加键盘事件监听器
+  	  // 添加键盘事件监听器
   	  $(document).keydown(function (event) {
    	   switch (event.which) {
      	   case 37: // 左箭头
      	   case 38: // 上箭头
-    	    case 39: // 右箭头
-    	    case 40: // 下箭头
-     	     toggleAudio();
+     	   case 39: // 右箭头
+     	   case 40: // 下箭头
+     	     event.preventDefault(); // prevent default behavior (scrolling, etc.)
+    	      toggleAudio();
     	      break;
-  	    }
+   	   }
  	   });
-	  });
+ 	 });
 
  	 function toggleAudio() {
-  	  var audio = document.getElementById('bgmMusic');
+ 	   var audio = document.getElementById('bgmMusic');
  	   if (audio.paused) {
-    	  audio.play();
+  	    audio.play();
   	  } else {
-  	    audio.pause();
-  	  }
+     	 // Add a condition here if you want to allow pausing only under certain circumstances
+    	  // For example, allow pausing only if a specific element has a certain class
+   	   if (/* your condition */) {
+    	    audio.pause();
+   	   }
+   	 }
 	  }
 	</script>
 
