@@ -293,21 +293,37 @@
 	<div class="nojavascript">皮皮虾我们走，去找一个吕朋友，吃炸鸡喝啤酒，还能一起拉拉手！</div>
 	
 
-	<audio id="bgmMusic" src="xiaoxingyun.mp3" autoplay="autoplay" loop preload="auto" type="audio/mp3"></audio>
+	<audio id="bgmMusic" src="xiaoxingyun.mp3" loop preload="auto" type="audio/mp3"></audio>
 
 	<script src="jquery.min.js"></script>
 	<script src="all.min.js"></script>
 	<script src="love.min.js"></script>
 	<div class="mPower">
-	  <span id="on" title="点击暂停" style=""></span>
- 	 <span id="off" title="点击播放" style=""></span>
+  	<span id="on" title="点击暂停" style=""></span>
+  	<span id="off" title="点击播放" style=""></span>
 	</div>
 
 	<script>
  	 $(document).ready(function () {
- 	   // 模拟点击事件
+  	  // 模拟点击事件
   	  $("#bgmMusic").trigger("play");
- 	 });
+
+ 	   // 添加键盘事件监听器
+ 	   $(document).keydown(function (event) {
+  	    if (event.which === 40) {  // 40是↓键的键码
+ 	       toggleAudio();
+   	   }
+ 	   });
+	  });
+
+	  function toggleAudio() {
+	    var audio = document.getElementById('bgmMusic');
+  	  if (audio.paused) {
+  	    audio.play();
+ 	   } else {
+  	    audio.pause();
+ 	   }
+	  }
 	</script>
 	
 	
