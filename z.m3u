@@ -15,6 +15,8 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",CCTV16 4K IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 logo="" group-title="中国大陆",CCTV8K IPV6
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 logo="" group-title="中国大陆",哈哈炫动 IPV6
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 #EXTINF:-1 logo="" group-title="中国大陆",卡酷少儿 IPV6
@@ -39,16 +41,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 logo="" group-title="香港特区",凤凰卫视资讯台 IPV6
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 logo="" group-title="香港特区",翡翠台
-http://free.cvmtv.site/Jade?token=live
-#EXTINF:-1 logo="" group-title="香港特区",ViuTV6
-http://free.cvmtv.site/Viu6?token=live
-#EXTINF:-1 logo="" group-title="香港特区",ViuTV
-http://free.cvmtv.site/Viu?token=live
-#EXTINF:-1 logo="" group-title="香港特区",香港31台
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-#EXTINF:-1 logo="" group-title="香港特区",香港32台
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 logo="" group-title="香港特区",香港8K IPV6
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 logo="" group-title="台湾省",TVBS
 http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 #EXTINF:-1 logo="" group-title="台湾省",中天新闻
@@ -89,8 +83,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 logo="" group-title="Bharat",WION印度新闻台
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 logo="" group-title="Vietnam",VTV1越南电视台
-http://free.cvmtv.site/VTV1HD?token=live
 #EXTINF:-1 logo="" group-title="Australia",ABC澳大利亚公共电视台
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 #EXTINF:-1 logo="" group-title="Turkey",TRT土耳其广播电视台
@@ -125,8 +117,6 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1 logo="" group-title="America",Reuters美国路透社
 https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 logo="" group-title="America",NBC全国广播公司
-http://free.cvmtv.site/NBC?token=live
 #EXTINF:-1 logo="" group-title="America",CNBC美国消费者新闻与商业频道
 http://free.cvmtv.site/CNBC?token=live
 
